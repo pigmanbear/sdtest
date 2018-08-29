@@ -1,0 +1,11 @@
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/obj/Debug/netcoreapp2.1/Dependency.csprojAssemblyReference.cache
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/obj/Debug/netcoreapp2.1/Dependency.csproj.CoreCompileInputs.cache
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/obj/Debug/netcoreapp2.1/Dependency.AssemblyInfoInputs.cache
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/obj/Debug/netcoreapp2.1/Dependency.AssemblyInfo.cs
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/bin/Debug/netcoreapp2.1/Dependency.deps.json
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/bin/Debug/netcoreapp2.1/Dependency.runtimeconfig.json
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/bin/Debug/netcoreapp2.1/Dependency.runtimeconfig.dev.json
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/bin/Debug/netcoreapp2.1/Dependency.dll
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/bin/Debug/netcoreapp2.1/Dependency.pdb
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/obj/Debug/netcoreapp2.1/Dependency.dll
+/Users/austincoose/iCloud Drive (Archive)/Documents/DotNet/Dependency/obj/Debug/netcoreapp2.1/Dependency.pdb
